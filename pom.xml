@@ -6,6 +6,12 @@
     <artifactId>thai-baht-utils</artifactId>
     <version>1.0.1-SNAPSHOT</version>
 
+    <name>Thai Baht Utils</name>
+    <description>
+        ThaiBahtUtils provides the functionality to transform a decimal amount into Thai human-readable words.
+    </description>
+    <url>https://github.com/pheerathach/thai-baht-utils</url>
+
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
