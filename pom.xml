@@ -4,7 +4,7 @@
 
     <groupId>io.github.pheerathach</groupId>
     <artifactId>thai-baht-utils</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <name>Thai Baht Utils</name>
     <description>
